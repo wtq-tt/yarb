@@ -1,0 +1,152 @@
+# 每日安全资讯（2025-11-29）
+
+- Recent Commits to cve:main
+  - [Update Fri Nov 28 11:35:31 UTC 2025](https://github.com/trickest/cve/commit/53b5b5fe9fb57c4ed69c26ac378999d701dbe028)
+- Tenable Blog
+  - [Cybersecurity Snapshot: What Security Pros’ Are Saying About Exposure Management, Risk Prioritization, Tool Sprawl and More](https://www.tenable.com/blog/cybersecurity-snapshot-what-security-pros-are-saying-about-exposure-management-risk)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [安全巨头数据泄露事件警示：企业邮件安全该补哪些短板？](https://www.4hou.com/posts/gyml)
+  - [Shai-Hulud供应链攻击再升级 数百款知名npm包遭恶意篡改](https://www.4hou.com/posts/VW39)
+  - [年访问量 2600 万的电视盗版流媒体平台Photocall遭联合查处后停运](https://www.4hou.com/posts/OG3G)
+- SecWiki News
+  - [SecWiki News 2025-11-28 Review](http://www.sec-wiki.com/?2025-11-28)
+- 安全客-有思想的安全新媒体
+  - [大规模npm供应链攻击“亡命开关”正驱动恶意软件攻击，其持久化机制依赖特定激活条件](https://www.anquanke.com/post/id/313473)
+  - [GitLab发布安全更新，修复可导致认证绕过与拒绝服务攻击的多重漏洞](https://www.anquanke.com/post/id/313477)
+  - [Apache SkyWalking 中存在漏洞，可导致攻击者发起跨站脚本攻击](https://www.anquanke.com/post/id/313482)
+  - [Next.js服务器存在未授权拒绝服务漏洞，单次请求即可致服务崩溃](https://www.anquanke.com/post/id/313486)
+  - [高级威胁“Shai Hulud”升级至v2版本，利用GitHub Actions工作流作为攻击载体窃取敏感机密](https://www.anquanke.com/post/id/313468)
+  - [逾390个被弃用的iCalendar同步域名存在安全隐患，可能导致近400万台设备暴露于安全风险之下](https://www.anquanke.com/post/id/313462)
+  - [纳闽再保险启用绿色数据中心，实现效能提升与运营成本优化](https://www.anquanke.com/post/id/313459)
+  - [遗留Python包中的代码漏洞，可通过劫持其依赖域名进而危及整个PyPI软件生态](https://www.anquanke.com/post/id/313453)
+  - [投资机构TA Associates正式注资Aeris，旨在强化其AI驱动的物联网安全能力](https://www.anquanke.com/post/id/313450)
+  - [趋势科技发布AI安全套件，以应对日益增长的网络风险](https://www.anquanke.com/post/id/313447)
+- paper - Last paper
+  - [快速响应：在边缘网关利用 IDS 和 LLMs 实现物联网实时入侵推理](https://paper.seebug.org/3419/)
+- Verne in GitHub
+  - [Z-Image-Turbo 高性能 AI 图像生成模型](https://blog.einverne.info/post/2025/11/z-image-turbo.html)
+- Securelist
+  - [Tomiris wreaks Havoc: New tools and techniques of the APT group](https://securelist.com/tomiris-new-tools/118143/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 48](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/)
+- Malwarebytes
+  - [How CVSS v4.0 works: characterizing and scoring vulnerabilities](https://www.malwarebytes.com/blog/news/2025/11/how-cvss-v4-0-works-characterizing-and-scoring-vulnerabilities)
+- 博客园 - 飘渺红尘✨
+  - [google tagmanager idor - 飘渺红尘✨](https://www.cnblogs.com/piaomiaohongchen/p/19283283)
+- 奇客Solidot–传递最新科技情报
+  - [改变推荐算法排名能改变一个人的政治立场](https://www.solidot.org/story?sid=82914)
+- HackerNews
+  - [美国法院备案机构遭勒索软件攻击](https://hackernews.cc/archives/61724)
+  - [黑客劫持美国无线电设备发送虚假警报](https://hackernews.cc/archives/61722)
+  - [Bloody Wolf 威胁行为体扩大中亚地区活动范围](https://hackernews.cc/archives/61719)
+  - [朝日集团确认约 200 万客户及员工数据遭黑客窃取](https://hackernews.cc/archives/61716)
+  - [OpenAI 用户数据或因分析公司 Mixpanel 遭网络攻击而泄露](https://hackernews.cc/archives/61713)
+  - [华硕发布新版固件，修复 AiCloud 高危漏洞](https://hackernews.cc/archives/61710)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [香港阿里小号增强版：无需实名，微信小程序接码，支持eSIM和漫游上网](https://blog.upx8.com/4911)
+  - [NetExec 网络服务漏洞利用工具](https://blog.upx8.com/4910)
+- 黑鸟
+  - [RuBee：隐匿于军工与核设施的小众无线协议](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183872&idx=1&sn=cfb48fa5fc46313a7a6f224b2c5d2f8c)
+- 绿盟科技CERT
+  - [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-62354）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489427&idx=1&sn=0de2d32a84d3e3685723814776d55971)
+- 奇安信 CERT
+  - [安全热点周报：Oracle Identity Manager 中的严重漏洞正被积极利用](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504220&idx=1&sn=558289331957486b5fa0f121fa99ceca)
+- 威努特安全网络
+  - [意大利国家铁路2.3TB信息泄露，马自达、佳能遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138227&idx=1&sn=c486b83401f8dda42ac314b12644136d)
+- 代码卫士
+  - [第三方供应商导致OpenAI客户数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524535&idx=1&sn=b7fe9e8a785380e376468375bde77bce)
+  - [Python遗留包中易受攻击代码可用于攻击PyPI](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524535&idx=2&sn=7e176ec2a38d6df2d5cc3ecae45cdffa)
+- 知道创宇404实验室
+  - [404星链计划 | 项目版本更新](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991031&idx=1&sn=874486d5ab57f3e0523d0a52a08a8a4f)
+- 看雪学苑
+  - [xVMP项目分析(基于LLVM的VMP实现)](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604601&idx=1&sn=a16a91ea3424a8b809cefcde896f4764)
+  - [本周职位更新！速速投简历](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604601&idx=2&sn=79164f11db318adba20a898e49ac6e9b)
+  - [新曝Next.js未授权DoS漏洞，可一键击溃服务器](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604601&idx=3&sn=35dd5bd4c71a05d1a770635c98edf0ec)
+- 奇安信病毒响应中心
+  - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498559&idx=1&sn=3f2f61796988b25357ebc7853a0238ba)
+- 天黑说嘿话
+  - [安全测试扫描工具ZAP](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485441&idx=1&sn=7d16e9926b6b9670b6c099a88a05afb4)
+  - [当“修仙”照进现实：在996的裂缝里，我们都在等一场逆袭](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485441&idx=2&sn=d4870803aaca36c171413373d2e2c5c6)
+  - [香港大埔突发大火致多人死亡，谈谈个人看法](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485441&idx=3&sn=8649e1361817da359152a68bf27dc919)
+- 奇安信威胁情报中心
+  - [每周高级威胁情报解读(2025.11.21~11.27)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516804&idx=1&sn=d9d99a2f3d63b283f7882b5baa4b1c0c)
+- 虎符智库
+  - [勒索攻击防御：为何基于 TTP 的行为检测胜过传统指标追踪](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493585&idx=1&sn=acb0f3e01cc47fe659d3b9926fa5f18a)
+- ChaMd5安全团队
+  - [PAM Backdoor分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247513736&idx=1&sn=a50f47d25bc548afa308bf2f29027377)
+- 极客公园
+  - [捐赠自研OS内核背后：Rust 先行者 vivo 的「担当」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092552&idx=1&sn=0b29ba90097b9fe58dee376774bcce15)
+  - [70% 学生选 AI，大学校长怎么教？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092552&idx=2&sn=5f73f1155cb784ba367f46600d448e79)
+  - [宗馥莉卸任娃哈哈集团公司董事长；小米、OV 等手机厂商取消 AIR 机型；Deepseek 推出新数学模型 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092498&idx=1&sn=bb96f8f91ed6351e60e26a4ffcdd811d)
+- M01N Team
+  - [每周蓝军技术推送（2025.11.22-11.28）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494527&idx=1&sn=759b1af89b6caaccc7783031bc8246cb)
+- 情报分析师
+  - [Tesari：美国新锐OSINT情报公司的战略剖析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650563726&idx=1&sn=c62417993d5601ec35993579ddd01294)
+  - [刚果（金）东部动荡局势升级及对我旗舰项目战略影响分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650563726&idx=2&sn=84a8a3114b5803dd4b7ed9c470e01395)
+- 嘶吼专业版
+  - [Shai-Hulud供应链攻击再升级 数百款知名NPM包遭恶意篡改](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585658&idx=1&sn=8e1a46aeb54a50aa3fd19d9258f7dd37)
+  - [年访问量2600万的电视盗版流媒体平台Photocall遭联合查处后停运](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585658&idx=2&sn=96ac9523ab71d18f8203ab3a8b667e04)
+- 丁爸 情报分析师的工具箱
+  - [【会议议程】第五届全国开源情报技术大会（COSINT-2025）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153104&idx=2&sn=3d50e8f0942058b974cc63a2dd70258c)
+- 慢雾科技
+  - [美英澳联合打击俄罗斯网络犯罪基础设施 Media Land 与 Aeza Group](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503924&idx=1&sn=59bff522b714a60b4cca7993f62beb4b)
+- 数世咨询
+  - [CISO必读：AI供应链攻击防御指南](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541017&idx=1&sn=71f5bba2d069fe899fc87b41932d2e08)
+- 安全牛
+  - [把安全卖给中小企业，90%的人第一步就错了](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139480&idx=1&sn=d79c2df0a3918b83dda90487cb027351)
+  - [数据要素市场化提速：11月招标透露哪些技术风向？；欺诈团伙工业化运作:AI驱动的支付欺诈激增477% | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139480&idx=2&sn=c3862c0de7d77ce6a3bc326b30d4f88b)
+- 京东安全应急响应中心
+  - [JoySafety再更新！提示词注入攻击检测模型升级， 开放大模型安全评测服务](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850267&idx=1&sn=5ea8bca1b5bea7eefe7023fd7ddda856)
+- 威胁棱镜
+  - [ATT&CK 2023（ATT&CKCon 4.0）议题慢递](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488061&idx=1&sn=23563682c3e93ca3e904c864194fd5c5)
+- IT Service Management News
+  - [OWASP AI Testing Guide](http://blog.cesaregallotti.it/2025/11/owasp-ai-testing-guide.html)
+- 火绒安全
+  - [火绒小问答——「企业版」中心/终端如何进行安装部署](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528076&idx=1&sn=f1c45635555ce4d7c86e220640b4125c)
+  - [【火绒安全周报】公安破获窃密串标案/涉密电脑违规联网导致泄密](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528076&idx=2&sn=ff76b9d8786082dd74789bad0e1d2d30)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528076&idx=3&sn=99ea8edab75c899bb014233d934903bc)
+- 360数字安全
+  - [日本朝日集团公开道歉](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247583087&idx=1&sn=9184f9b3bcc297aa2df74e92491bde24)
+- Over Security - Cybersecurity news aggregator
+  - [Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/)
+  - [Microsoft: Windows updates make password login option invisible](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/)
+  - [Public GitLab repositories exposed more than 17,000 secrets](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/)
+  - [Japanese beer giant Asahi says ransomware attack may have exposed data of 1.5 million people](https://therecord.media/asahi-says-ransomware-incident-exposed-data)
+  - [IA agentica e sicurezza informatica: online l’analisi del CERT-AgID](https://cert-agid.gov.it/news/ia-agentica-e-sicurezza-informatica-online-lanalisi-del-cert-agid/)
+  - [Il campione biologico è un dato personale: cosa insegna la sanzione privacy all’Humanitas](https://www.cybersecurity360.it/legal/il-campione-biologico-e-un-dato-personale-cosa-insegna-la-sanzione-privacy-allhumanitas/)
+  - [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/)
+  - [Sintesi riepilogativa delle campagne malevole nella settimana del 22 – 28 novembre](https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-22-28-novembre/)
+  - [Il nuovo strumento di whistleblowing per l’AI Act: cos’è e come funziona](https://www.cybersecurity360.it/news/il-nuovo-strumento-di-whistleblowing-per-lai-act-cose-e-come-funziona/)
+  - [GreyNoise launches free scanner to check if you're part of a botnet](https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/)
+  - [Malicious LLMs empower inexperienced hackers with advanced tools](https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/)
+  - [California law regulating web browsers could have national data privacy impact, experts say](https://therecord.media/california-web-browser-law-national-implications)
+  - [La trappola di Chat Control: minori tutelati, cittadini sorvegliati](https://www.cybersecurity360.it/legal/privacy-dati-personali/la-trappola-di-chat-control-minori-tutelati-cittadini-sorvegliati/)
+  - [Dal ragionamento all’accountability: la logica come prova documentata](https://www.cybersecurity360.it/cultura-cyber/dal-ragionamento-allaccountability-la-logica-come-prova-documentata/)
+  - [Tomiris wreaks Havoc: New tools and techniques of the APT group](https://securelist.com/tomiris-new-tools/118143/)
+- 迪哥讲事
+  - [资产收集神器](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498723&idx=1&sn=a080422736ea381a7d513720aa50e500)
+- Yak Project
+  - [告别手敲命令，证书一键生成！](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529146&idx=1&sn=9d20f2b391b2761bb0dda864ab8f6c20)
+- Schneier on Security
+  - [Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html)
+  - [Prompt Injection Through Poetry](https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html)
+- ICT Security Magazine
+  - [Sicurezza SCADA e ICS tra persistenza degli attaccanti e opacità dei sistemi legacy](https://www.ictsecuritymagazine.com/articoli/sicurezza-scada-ics/)
+  - [Sovranità digitale e cybersecurity: la sfida italiana ed europea verso il 2030](https://www.ictsecuritymagazine.com/articoli/sovranita-digitale-cybersecurity-italia/)
+  - [Securing Intelligence at the Edge: cybersecurity e standard per il continuum Edge-to-Cloud nell’era dell’IA](https://www.ictsecuritymagazine.com/articoli/edge-to-cloud/)
+- 复旦白泽战队
+  - [MCPZoo 主页上线｜让 MCP 生态第一次“看得见、摸得着”](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496800&idx=1&sn=35a999bbecd497423efd7975645e93e1)
+- Security Affairs
+  - [Attackers stole member data from French Soccer Federation](https://securityaffairs.com/185160/data-breach/attackers-stole-member-data-from-french-soccer-federation.html)
+  - [Thousands of sensitive secrets published on JSONFormatter and CodeBeautify](https://securityaffairs.com/185150/security/thousands-of-sensitive-secrets-published-on-jsonformatter-and-codebeautify.html)
+  - [New Mirai variant ShadowV2 tests IoT exploits amid AWS disruption](https://securityaffairs.com/185135/malware/new-mirai-variant-shadowv2-tests-iot-exploits-amid-aws-disruption.html)
+- Deeplinks
+  - [The UK Has It Wrong on Digital ID. Here’s Why.](https://www.eff.org/deeplinks/2025/11/uk-has-it-wrong-digital-id-heres-why)
+  - [EFF’s Holiday Gift Guide](https://www.eff.org/deeplinks/2025/11/effs-holiday-gift-guide)
+- The Hacker News
+  - [Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html)
+  - [North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html)
+  - [Why Organizations Are Turning to RPAM](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html)
+  - [MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants](https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html)
+- Security Weekly Podcast Network (Audio)
+  - [Dealing with loss, phone loss with Aaran, Doug, and Josh. - SWN #533](http://sites.libsyn.com/18678/dealing-with-loss-phone-loss-with-aaran-doug-and-josh-swn-533)
