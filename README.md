@@ -1,6 +1,6 @@
-# yarb (Yet Another Rss Bot)
+# yarb 
 
-基于https://github.com/Vu1nT0tal/yarb的修改版本，原版我在centos上跑不动！
+基于 [yarb](https://github.com/Vu1nT0tal/yarb) 的修改版本，原版我在centos上跑不动！
 
 # 本地搭建
 
