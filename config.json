@@ -49,7 +49,7 @@
         "wecom": {
             "enabled": true,
             "secrets": "WECOM_KEY",
-            "key": "da9e4117-32f7-4077-bf38-fd92971a3b85"
+            "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         },
         "dingtalk": {
             "enabled": false,

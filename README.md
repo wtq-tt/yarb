@@ -52,7 +52,7 @@ sudo ln -sf /usr/local/python3.9/bin/pip3.9   /usr/bin/pip3
 ```
 $ git clone https://github.com/wtq-tt/yarb.git
 $ cd yarb && ./install.sh
-#测试一下
+#测试一下 记得修改config.json的推送key
 $ python3 yarb.py 
 
 #可以做定时任务每日9点执行
